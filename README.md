@@ -46,5 +46,11 @@ I especially enjoy developing websites and applications that combine functionali
 My future goals include developing a new version of Songfinder with integrated machine learning to create a fully functional music discovery application, as well as continuously improving Trainingsplan Online by adding new features and enhancing its existing functionality. I’m always looking to expand my skills, explore new technologies, and turn new ideas into practical software solutions.
 </div>
 
+<br><br>
+
 <div>Find more information about my projects on my personal website:</div>
+
+<br><br>
+
+<a href="https://hannes-bludau-webseite.web.app/" target="_blank">
 
