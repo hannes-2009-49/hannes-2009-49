@@ -39,3 +39,12 @@ My projects include Trainingsplan Online, a web application for organizing worko
 <div align="justify">
 I especially enjoy developing websites and applications that combine functionality with a clean, intuitive user experience.
 </div>
+
+## Goals & Featured Projects
+
+<div align="justify">
+My future goals include developing a new version of Songfinder with integrated machine learning to create a fully functional music discovery application, as well as continuously improving Trainingsplan Online by adding new features and enhancing its existing functionality. I’m always looking to expand my skills, explore new technologies, and turn new ideas into practical software solutions.
+</div>
+
+<div>Find more information about my projects on my personal website:</div>
+
