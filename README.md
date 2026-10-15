@@ -12,6 +12,7 @@ Hi, my name is Hannes, and I’m currently a 12th-grade student. In my free time
 ## Languages & Web Technologies
 
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" alt="HTML, CSS, JavaScript, PHP and SQL-related technologies">
 </p>
@@ -19,6 +20,7 @@ Hi, my name is Hannes, and I’m currently a 12th-grade student. In my free time
 ## Tools & Environment
 
 <br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
@@ -31,11 +33,15 @@ Hi, my name is Hannes, and I’m currently a 12th-grade student. In my free time
 <div align="justify">
 I enjoy identifying everyday problems and turning my own ideas into practical software solutions. Rather than coding just for the sake of it, I like building tools that serve a real purpose and make daily tasks easier or more efficient.
 </div>
+
 <br>
+
 <div align="justify">
 My projects include Trainingsplan Online, a web application for organizing workout plans, Pizza Online, a custom ordering system with an administrative dashboard, and Songfinder, a tool for discovering and filtering music. Many of my ideas come from challenges I encounter myself, inefficient workflows I want to improve, or features I wish existing solutions offered.
 </div>
+
 <br>
+
 <div align="justify">
 I especially enjoy developing websites and applications that combine functionality with a clean, intuitive user experience.
 </div>
@@ -46,11 +52,10 @@ I especially enjoy developing websites and applications that combine functionali
 My future goals include developing a new version of Songfinder with integrated machine learning to create a fully functional music discovery application, as well as continuously improving Trainingsplan Online by adding new features and enhancing its existing functionality. I’m always looking to expand my skills, explore new technologies, and turn new ideas into practical software solutions.
 </div>
 
-<br><br>
+<br>
 
 <div>Find more information about my projects on my personal website:</div>
 
-<br><br>
+<br>
 
 <a href="https://hannes-bludau-webseite.web.app/" target="_blank">hannes-bludau-webseite.web.app</a>
-
